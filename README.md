@@ -6,7 +6,7 @@ Documentando e curtindo a **Jornada...**
   
 🧡 Estagiária de Produtos Digitais (Front-end).
 
-💻 No momento estou estudando JavaScript, React e Testes/Qualidade.
+💻 No momento estou estudando Python, SQL, Testes/Qualidade.
 
 ⏳ Conhecimento dos Métodos e Ferramentas Àgeis (Scrum, Kanban, OKR's...).
 
