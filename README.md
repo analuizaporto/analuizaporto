@@ -6,7 +6,7 @@ Documentando e curtindo a **Jornada...**
   
 🧡 Estagiária de Produtos Digitais.
 
-💻 No momento estou estudando Python, SQL, Testes/Qualidade.
+💻 No momento estou estudando Python para Data Science.
 
 ⏳ Conhecimento dos Métodos e Ferramentas Àgeis (Scrum, Kanban, OKR's...).
 
